@@ -1,0 +1,74 @@
+/* GENERAL CHARACTERISTICS */
+
+
+
+/* HEADINGS AND TITLES */
+
+
+
+body {
+		background-color: black;
+		
+}
+
+p {		color:white;
+}
+
+h1 {	
+		color: rgb(255,100,0);
+		text-align: center;
+		font-family: "Courier New";
+		font-size: 30px;
+}
+
+h2 {
+		color: rgb(255,100,0);
+		text-align: center;
+		font-family: "Courier New";
+		font-size: 20px;
+}
+
+/* NAVIGATION BAR */
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	list-style-position: center;
+	
+}
+
+li {
+	float: left;
+}
+
+/* 'a' is reserved for the main navigation bar */
+li a {
+	display: block;
+	background-color: rgb(0,0,0);
+	color: rgb(255,100,0);
+	text-align: center;
+	font-size: 16px;
+	padding: 16px;
+	text-decoration: none;
+	font-family: "Courier New";
+	border: 2px solid black;
+}
+
+li a:hover:not(.mainActive){
+	background-color: rgb(50,0,0);
+}
+
+.mainActive {
+	background-color: rgb(100,0,0);
+}
+
+.floatstop {
+	clear:both;
+}
+
+img {
+	position: center;
+}
+
+
+
