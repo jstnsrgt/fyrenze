@@ -1,0 +1,16 @@
+# lines starting with # will be ignored
+#
+# The following is an example of how events can be inserted
+# into the webpage by listing it below in set layout blocks that
+# javascript can decode
+#
+#VENUE: ->The Venue Name
+#DATE: ->date of event
+#NUMBER: ->venue contact number
+#WEBSITE: ->venue website
+#
+#VENUE:Gembrook RSL
+#DATE:21-02-2017
+#NUMBER:5967 7071
+#WEBSITE:http://www.rslvic.com.au/rsl-network/victorian-map-of-all-branches/gembrook/
+#
